@@ -1,0 +1,3 @@
+flutter emulators --launch dt1
+emulator -avd dt1 -gpu swiftshader_indirect
+emulator -avd dt1 -gpu off
